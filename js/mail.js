@@ -15,9 +15,9 @@ let mailtrovata= false;
 
  if (mailtrovata === true){
 
-  prompt('benvenuto');
+  alert('benvenuto');
  }
 
  else{
-   prompt('la tua mail non è nella lista di chi può accedere');
+   alert('la tua mail non è nella lista di chi può accedere');
  }
